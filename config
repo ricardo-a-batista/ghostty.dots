@@ -1,0 +1,9 @@
+# Theme
+theme = nightfox
+
+# GTK
+gtk-titlebar = false
+
+# font
+font-size   = 16
+font-family = "Maple Mono NF"
